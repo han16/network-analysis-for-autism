@@ -1,0 +1,21 @@
+name: network-analysis-for-autism
+output_dir: ../docs
+navbar:
+  title: network-analysis-for-autism
+  left:
+  - text: Home
+    href: index.html
+  - text: About
+    href: about.html
+  - text: License
+    href: license.html
+  right:
+  - icon: fa-github
+    text: Source code
+    href: https://github.com/han16/network-analysis-for-autism
+output:
+  workflowr::wflow_html:
+    toc: yes
+    toc_float: yes
+    theme: cosmo
+    highlight: textmate
