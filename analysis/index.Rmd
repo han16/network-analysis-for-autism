@@ -7,3 +7,22 @@ output:
 ---
 
 Welcome to my research website.
+
+## Motivation 
+
+Sequencing data+Brainspan+gene expression by network analysis 
+
+
+## Samples available 
+
+* BrainSpan data from [here](https://github.com/linnylin92/covarianceSelection)
+
+* TADA score for every gene 
+
+* WES data for autism 
+
+
+## Method 
+
+
+
